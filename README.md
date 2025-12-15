@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Muhammet Can Çinkılıç. 
-🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python
 <!--
 **mcinkilic/mcinkilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
